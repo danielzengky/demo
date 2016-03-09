@@ -1,0 +1,10 @@
+# coding=gbk
+'''
+Created on 2016Äê3ÔÂ9ÈÕ
+
+@author: 1
+'''
+a=7;
+b=96;
+c=a*b;
+print(c)
